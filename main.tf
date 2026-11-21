@@ -10,3 +10,4 @@ resource "local_file" "infra" {
   content  = "GitOps Deployment Production State"
   filename = "prod.txt"
 }
+# update
